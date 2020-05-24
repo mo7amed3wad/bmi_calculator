@@ -1,0 +1,4 @@
+#Sat Aug 17 19:50:22 EET 2019
+base.0=D\:\\flutter_project\\bmi_calculator\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
